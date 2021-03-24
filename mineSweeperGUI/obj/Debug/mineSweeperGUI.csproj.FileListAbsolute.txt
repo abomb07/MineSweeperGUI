@@ -1,0 +1,15 @@
+C:\Users\Adam\source\repos\mineSweeper\mineSweeperGUI\bin\Debug\mineSweeperGUI.exe.config
+C:\Users\Adam\source\repos\mineSweeper\mineSweeperGUI\bin\Debug\mineSweeperGUI.exe
+C:\Users\Adam\source\repos\mineSweeper\mineSweeperGUI\bin\Debug\mineSweeperGUI.pdb
+C:\Users\Adam\source\repos\mineSweeper\mineSweeperGUI\obj\Debug\mineSweeperGUI.csprojAssemblyReference.cache
+C:\Users\Adam\source\repos\mineSweeper\mineSweeperGUI\obj\Debug\mineSweeperGUI.Form1.resources
+C:\Users\Adam\source\repos\mineSweeper\mineSweeperGUI\obj\Debug\mineSweeperGUI.Properties.Resources.resources
+C:\Users\Adam\source\repos\mineSweeper\mineSweeperGUI\obj\Debug\mineSweeperGUI.csproj.GenerateResource.cache
+C:\Users\Adam\source\repos\mineSweeper\mineSweeperGUI\obj\Debug\mineSweeperGUI.csproj.CoreCompileInputs.cache
+C:\Users\Adam\source\repos\mineSweeper\mineSweeperGUI\obj\Debug\mineSweeperGUI.exe
+C:\Users\Adam\source\repos\mineSweeper\mineSweeperGUI\obj\Debug\mineSweeperGUI.pdb
+C:\Users\Adam\source\repos\mineSweeper\mineSweeperGUI\obj\Debug\mineSweeperGUI.Form2.resources
+C:\Users\Adam\source\repos\mineSweeper\mineSweeperGUI\bin\Debug\mineClass.dll
+C:\Users\Adam\source\repos\mineSweeper\mineSweeperGUI\bin\Debug\mineClass.pdb
+C:\Users\Adam\source\repos\mineSweeper\mineSweeperGUI\obj\Debug\mineSweeperGUI.csproj.CopyComplete
+C:\Users\Adam\source\repos\mineSweeper\mineSweeperGUI\obj\Debug\mineSweeperGUI.Form3.resources

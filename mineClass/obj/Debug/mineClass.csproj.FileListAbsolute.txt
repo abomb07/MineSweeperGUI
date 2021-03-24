@@ -1,0 +1,6 @@
+C:\Users\Adam\source\repos\mineSweeper\mineClass\bin\Debug\mineClass.dll
+C:\Users\Adam\source\repos\mineSweeper\mineClass\bin\Debug\mineClass.pdb
+C:\Users\Adam\source\repos\mineSweeper\mineClass\obj\Debug\mineClass.csprojAssemblyReference.cache
+C:\Users\Adam\source\repos\mineSweeper\mineClass\obj\Debug\mineClass.csproj.CoreCompileInputs.cache
+C:\Users\Adam\source\repos\mineSweeper\mineClass\obj\Debug\mineClass.dll
+C:\Users\Adam\source\repos\mineSweeper\mineClass\obj\Debug\mineClass.pdb
